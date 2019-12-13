@@ -1,5 +1,5 @@
-# hello-world
-my first repo
+# Welcome to my GitHub
+# Introduction
 
 This github contains every project that I have done over my college years and professional career.
 
